@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void TestPushFelix()
     {
-        int c = 232;
+        int c = 23;
 
     }
     private void Test02()
